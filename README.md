@@ -1,0 +1,2 @@
+# videoCompressor
+Автоматизация использования ffmpeg
